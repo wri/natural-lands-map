@@ -1,5 +1,7 @@
 ## Natural Lands Map 
 
+*Version 0.3 (beta)*
+
 This map was created by World Resources Institute’s Land and Carbon Lab in collaboration with WWF and Systemiq for the Science Based Target Network's [Land Targets](https://sciencebasedtargetsnetwork.org/how-it-works/set-targets/). The map is intended to be used by companies as a 2020 baseline for setting Target 1: “No conversion of natural ecosystems”. 
 
 Full technical documentation for the Natural Lands Map is available [at this link](https://sciencebasedtargetsnetwork.org/wp-content/uploads/2023/05/Technical-Guidance-2023-Step3-Land-v0.3-Natural-Lands-Map.pdf). 
@@ -17,6 +19,10 @@ Mazur, E., M. Sims, E. Goldman, M. Schneider, F. Stolle, M.D. Pirri, C.R. Beatty
 ### GEE application 
 
 The map can be viewed online via a Google Earth Engine Application [here](https://wri-datalab.earthengine.app/view/sbtn-natural-lands).  
+
+### Data Access
+
+For access to the SBTN Natural Lands Map, please email Elise Mazur and Michelle Sims with a brief explanation of how you are thinking of using the map. 
 
 ### Contact 
 
