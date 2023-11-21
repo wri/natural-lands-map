@@ -89,6 +89,9 @@ var indo = ee.Image('projects/mapbiomas-indonesia/public/collection1/mapbiomas_i
 //Chaco ecoregion (including dry and humid Chaco) was exported as separate shapefile and uploaded to GEE
 //Mapbiomas Chaco collection will be clipped to Chaco ecoregion
 var olson_chaco = ee.FeatureCollection('projects/wri-datalab/SBTN/olson_chaco_ecoregion');
+var olson_chaco = olson_chaco.map(function(feat) {
+  return feat.set('chaco', 1);
+});
 
 //Create new geometry to buffer Chaco ecoregion and convert to Feature Collection
 //This avoids creating gaps between Mapbiomas Chaco and other Mapbiomas layers when mosaicking
