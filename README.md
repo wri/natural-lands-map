@@ -22,13 +22,13 @@ The map can be viewed online via a Google Earth Engine Application [here](https:
 
 ### Data Access
 
-The map can be accessed on GEE [at this link] (https://developers.google.com/earth-engine/datasets/catalog/WRI_SBTN_naturalLands_v1). 
+The map can be accessed on GEE [at this link](https://developers.google.com/earth-engine/datasets/catalog/WRI_SBTN_naturalLands_v1). 
 
-GeoTiffs are available as 10x10 degree tiles and can be downloaded from [lcl_public/SBTN_NaturalLands/v1] (https://console.cloud.google.com/storage/browser/lcl_public/SBTN_NaturalLands/v1).
+GeoTiffs are available as 10x10 degree tiles and can be downloaded from [lcl_public/SBTN_NaturalLands/v1](https://console.cloud.google.com/storage/browser/lcl_public/SBTN_NaturalLands/v1).
 
-Class values can be found [here] (https://docs.google.com/spreadsheets/d/13w0Ezo5OMTInsBOn6OrBN-G580YqVvIWhsxgyeK3GuY/edit?usp=sharing). 
+Class values can be found [here](https://docs.google.com/spreadsheets/d/13w0Ezo5OMTInsBOn6OrBN-G580YqVvIWhsxgyeK3GuY/edit?usp=sharing). 
 
-The SBTN Natural Lands Map has a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Intergovernmental Organization License] (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). Companies may use this map for target setting. 
+The SBTN Natural Lands Map has a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Intergovernmental Organization License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). Companies may use this map for target setting. 
 
 
 ### Contact 
