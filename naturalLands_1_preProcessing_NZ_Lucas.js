@@ -2,8 +2,6 @@
 NATURAL LANDS MAP FOR SBTN NO CONVERSION TARGET SETTING
 Version 1.0 
 WRI, August 2024
-Full Technical Note: https://sciencebasedtargetsnetwork.org/wp-content/uploads/2024/09/Technical-Guidance-2024-Step3-Land-v1-Natural-Lands-Map.pdf
-
 
 NEW ZEALAND LUCAS PRE-PROCESSING
 This script harmonizes NZ LUCAS 2020 data to Natural Lands map classes, mosaics, and exports the data.
